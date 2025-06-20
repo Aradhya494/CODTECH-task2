@@ -13,8 +13,7 @@
 ## Overview of the Project
 
 ### Project: Linkedlist Implementation
-![Image](https://github.com/user-attachments/assets/7a311bfb-19dd-45c2-8006-d69ba277da59)
-
+![Image](https://github.com/user-attachments/assets/153987fe-d6d4-44ee-a506-c0fd1596a5f6)
 ### Objective
 The objective of this project is to design and implement a singly linked list in the C programming language that performs core operations such as:
 
